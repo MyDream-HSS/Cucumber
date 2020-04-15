@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1586866935174" stop="1586866935663" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1586866935483" stop="1586866935553" status="passed">
+            <name>feature[Free CRM Login Feature]</name>
+            <description>Runs Cucumber Feature</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LP-INHY00000332"/>
+                <label name="thread" value="652@LP-INHY00000332.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
